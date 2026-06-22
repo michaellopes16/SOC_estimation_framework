@@ -1,3 +1,4 @@
+<img width="2816" height="1536" alt="framework_flow" src="https://github.com/user-attachments/assets/8d7a2312-c093-4fb3-bf90-0e9f7eacc50b" />
 # Deep Learning and XAI Framework for Battery SOC Estimation
 
 This repository contains the complete infrastructure built in Python for processing, modeling, optimizing, and explaining time series geared towards battery State of Charge (SOC) estimation. The project was structured under the organization of **ISI-TICs**, focusing on methodological rigor, predictive accuracy, and transparency of *Deep Learning* models through eXplainable Artificial Intelligence (XAI).
@@ -85,8 +86,7 @@ The framework follows a modular design pattern (Facade, Builder, Pipeline). Belo
 ```
 
 ### Visual Flow
-<img width="2816" height="1536" alt="Main Flow" src="https://github.com/user-attachments/assets/1631d344-d8e4-4a95-b04a-945e810bc343" />
-
+<img width="2816" height="1536" alt="framework_flow" src="https://github.com/user-attachments/assets/4158c34d-b125-4e7f-a5e9-952345d39026" />
 ---
 
 ## 💻 How to Use
